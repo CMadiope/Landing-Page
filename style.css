@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.section3{
+    background-color: #E5E7EB;
+}
+.quote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    color: white;
+    background-color: #1f2939;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
